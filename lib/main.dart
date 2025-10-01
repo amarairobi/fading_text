@@ -277,7 +277,7 @@ class _FadingTextAnimationState extends State<FadingTextAnimation> {
               mainAxisSize: MainAxisSize.min,
               children: [
                 Icon(Icons.play_arrow),
-                const SizedBox(width: 8),
+                const SizedBox(width: 9),
                 Text('Toggle Animation!'),
               ],
             ),
